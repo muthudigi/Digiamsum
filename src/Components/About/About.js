@@ -41,42 +41,7 @@ export class About extends Component {
         
           </p>
         </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Modern Design</h6><hr/>
-            <p>We use latest technology for the latest world because we know the demand of peoples.</p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Creative Design</h6><hr/>
-            <p>We are always creative and and always lisen our costomers and we mix these two things and make beast design.</p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>24 x 7 User Support</h6><hr/>
-            <p>If our customer has any problem and any query we are always happy to help then.</p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Business Growth</h6><hr/>
-            <p>Everyone wants to live on top of the mountain, but all the happiness and growth occurs while you're climbing it</p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Market Strategy</h6><hr/>
-            <p>Holding back technology to preserve broken business models is like allowing blacksmiths to veto the internal combustion engine in order to protect their horseshoes.</p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Affordable cost</h6><hr/>
-            <p>Love is a special word, and I use it only when I mean it. You say the word too much and it becomes cheap.</p>
-          </div>
-        </div>
+        
       </div>
     </div>
   </div>

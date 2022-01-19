@@ -153,29 +153,45 @@ export class Home extends Component {
 
         <div class="col-lg-4 col-sm-6">
           <div class="item"> 
-            <h6>24 x 7 User Support</h6><hr/>
-            <p></p>
+            <h6>Database</h6><hr/>
+            <p>MYSQL</p>
+            <p>MSSQL</p>
+            <p>Oracle</p>
+            <p>Excel</p>
           </div>
         </div>
 
         <div class="col-lg-4 col-sm-6">
           <div class="item"> 
-            <h6>course content</h6><hr/>
-            <p></p>
+            <h6>Servers and Deployment </h6><hr/>
+            <p>AWS</p>
+            <p>Apache</p>
+            <p>IIS</p>
+            <p>FLASK</p>
           </div>
         </div>
 
         <div class="col-lg-4 col-sm-6">
           <div class="item"> 
-            <h6>course content</h6><hr/>
-            <p></p>
+            <h6>Problem Solving</h6><hr/>
+            <p>Algorithms</p>
+            <p>Mathematics</p>
+            <p>Probability</p>
+            <p>Graph Theory</p>
+            <p>Data Structures</p>  
           </div>
         </div>
 
         <div class="col-lg-4 col-sm-6">
           <div class="item"> 
-            <h6>course content</h6><hr/>
-            <p></p>
+            <h6>Design and UI</h6><hr/>
+            <p>JAVASCRIPTs</p>
+            <p>PHP</p>
+            <p>NodeJS</p>
+            <p>Bootstrap</p>
+            <p>AngularJS</p>
+            <p>AJAX</p>
+            <p>jQuery</p>
           </div>
         </div>
 

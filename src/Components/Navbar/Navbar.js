@@ -30,11 +30,7 @@ export class Navbar extends Component {
 
         <li class="navbar-dropdown">
           <a href="/">Home</a>
-          <div class="dropdown">
-            <a href="#">Technologies we train</a>
-            <a href="#">2</a>
-            <a href="#">3</a>
-          </div>
+       
         </li>
 
 
