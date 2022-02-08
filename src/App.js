@@ -7,6 +7,7 @@ import { Home } from './Components/Home/Home';
 
 import { Navbar } from './Components/Navbar/Navbar';
 import Reactrouter from './Components/Reactrouter'
+import { Sidenav } from './Components/Course/Course';
 
 
 
@@ -14,8 +15,8 @@ const App = ()  => {
   return (
 
    <Router>
-
 <Navbar />
+
 
 <Reactrouter />
 <Footer />

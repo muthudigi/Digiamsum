@@ -18,59 +18,51 @@ export class Navbar extends Component {
             <>
                 
      
+              <header>
                 <nav class="navbar">
     
-                <a class="navbar-brand" href="/">
-      <div class="logo-image">
-            <img src="Amsumlg.png" class="img-fluid"/>
-      </div>
+    <a class="navbar-brand" href="/">
+<div class="logo-image">
+<img src="Amsumlg.png" class="img-fluid"/>
+</div>
 </a>
-      <ul class="navbar-links">
+<ul class="navbar-links">
 
 
-        <li class="navbar-dropdown">
-          <a href="/">Home</a>
-       
-        </li>
+<li class="navbar-dropdown">
+<a href="/">Home</a>
+
+</li>
 
 
-        <li class="navbar-dropdown">
-          <a href="#">Course</a>
-          <div class="dropdown">
-            <a href="#">Web Development</a>
-            <a href="#">Artificial intelligence</a>
-            <a href="#">Machine learning</a>
-            <a href="#">Mobile app development</a>
-            <a href="#">cloud security</a>
-        
-          </div>
-        </li>
+<li class="navbar-dropdown">
+<a href="/Course">Course</a>
+
+</li>
 
 
-        <li class="navbar-dropdown">
-          <a href="/About">About</a>
-        </li>
+<li class="navbar-dropdown">
+<a href="/About">About</a>
+</li>
 
-        <li class="navbar-dropdown">
-          <a href="#">Contact Us</a>
-          <div class="dropdown">
-            <a href="#">career</a>
-          </div>
-        </li>
+<li class="navbar-dropdown">
+<a href="/Contact">Contact Us</a>
 
-      
-        
-      </ul>
-    </nav>
+</li>
+
+
+
+</ul>
+</nav>
+
+</header>
+ 
     
         
         
-<div>
 
 
-</div>
-
-      
+     
    
        
                   </> ) } }

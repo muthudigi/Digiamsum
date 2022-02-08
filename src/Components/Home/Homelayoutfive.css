@@ -1,0 +1,75 @@
+.contaainer{
+    background-color: #000000;
+    height: 640px;
+  }
+  .ciiirclecontiner{
+      width: 100%;
+      height: 420px;
+    }
+    .ciiircle1{
+      width: 550px;
+      height: 450px;
+  background-color:  #f1c50e;
+      position: relative;
+      right: -550px;
+      top: 120px;
+
+      
+    }
+    .ciiircle1 .Hello{
+      top: 50px;
+    }
+  
+    .ciiircle2{
+      width: 400px;
+      height: 400px;
+      position: relative;
+      top: -405px;
+      left: 680px;
+  }
+    
+    .ciiircle3{
+      width: 731px;
+      height: 200px;
+      position: relative;
+      left: -400px;
+      top: 68px;
+    }
+    .ciiicletitle{
+      position: relative;
+      width: 500px;
+      font-size: 50px;
+      top: -350px;
+      left: 550px;
+      color: rgb(255, 255, 255);
+    }
+    .ciiicletitle1{
+      position: relative;
+      width: 500px;
+      font-size: 30px;
+      top: -350px;
+      left: 550px;
+      color: rgb(255, 255, 255);
+    }
+    .ciiircletagline{
+      position: relative;
+      font-size: 15px;
+      padding: 10px 100px;
+      top: -330px;
+      border: 80px;
+      left: 720px;
+      font-weight: 700;
+     
+      color: rgba(0, 0, 0, 0.75);
+    }
+    .ciiircle2 img{
+      width: 480px;
+      height: 450px;
+      box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.349);
+    }
+    .ciiircle3 h1{
+      height: 200px;
+      width: 200px;
+      padding:20px;
+      color: #000000;
+    }

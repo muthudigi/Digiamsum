@@ -4,202 +4,51 @@ import React, { Component } from 'react'
 import './home.css'
 
 
+import { Homeabout, Imgtop } from './Homeabout'
+import { MV } from './MV'
+import { Homelearning, Scroll } from './Homelearning'
+import { Homelayoutfour } from './Homelayoutfour'
+import { Homelayoutfive } from './Homelayoutfive'
+
+
+
+
 export class Home extends Component {
     render() {
         return (
             <>
-       
-
-
-       
-   
-<body>
-
-
-    <div class="content">
-      <div class="card one">
-        <div class="top">
-          <div class="title">Technologies we train </div>
-          <div class="price-sec">
-          
-          </div>
-        </div>
-        <div class="info"></div>
-        <div class="details">
-        <div class="one">
-            <span>ITIMS (Information Technology Infrastructure Management Services)</span>
-           
-          </div>
-          <div class="one">
-            <span>Networking</span>
-          
-          </div>
-          <div class="one">
-            <span>Cloud Computing </span>
-            
-          </div>
-          <div class="one">
-            <span>Python</span>
-            
-          </div>
-          <div class="one">
-            <span>Software Testing</span>
-     
-          </div>
-          <button>More Details</button>
-        </div>
-      </div>
-
-  
-      <div class="card two">
-        <div class="top">
-          <div class="title">Technologies we train </div>
-         
-        </div>
-        <div class="info"></div>
-        <div class="details">
-        <div class="one">
-            <span>Java</span>
-          
-          </div>
-          <div class="one">
-            <span>AWS (Amazon Web Services)</span>
-           
-          </div>
-          <div class="one">
-            <span>Microsoft Azure </span>
-        
-          </div>
-          <div class="one">
-            <span>Data science</span>
-           
-          </div>
-          <div class="one">
-            <span>Artificial Intelligence</span>
-         
-          </div>
-          <div class="one">
-            <span>Machine Learning</span>
-          
-          </div>
-          <button>More Details</button>
-        </div>
-      </div>
-
-
-      <div class="card three">
-        <div class="top">
-          <div class="title">Technologies we train </div>
-          
-        </div>
-        <div class="info">  </div>
-        <div class="details">
-          <div class="one">
-            <span>Block Chain </span>
-         
-          </div>
-          <div class="one">
-            <span>SAP (All streams)</span>
-     
-          </div>
-          <div class="one">
-            <span>E-Commerce </span>
-         
-          </div>
-          <div class="one">
-            <span> Cyber Security CEH</span>
-         
-          </div>
-          <div class="one">
-            <span> RPA – Robotic Process Automation</span>
-          
-          </div>
-          <button>More Details</button>
-        </div>
-      </div>
-    </div>
  
- 
-    </body>
 
+      
+    <body class="u-body">
 
-    <div class="feat bg-gray pt-5 pb-5">
-    <div class="container">
-      <div class="row">
-        
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>PEDAGOGY I</h6><hr/>
-            <p>PROGRAMMING</p>
-            <p>DATABASE</p>
-            <p>DESIGN & UI</p>
-            <p>SERVER & DEPLOYMENT</p>
-            <p>PROBLEM SOLVING</p>
-            
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Programming </h6><hr/>
-            <p>C</p>
-            <p>C++</p>
-            <p>JAVA</p>
-            <p>Python</p>
-            <p>R</p>
-           
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Database</h6><hr/>
-            <p>MYSQL</p>
-            <p>MSSQL</p>
-            <p>Oracle</p>
-            <p>Excel</p>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Servers and Deployment </h6><hr/>
-            <p>AWS</p>
-            <p>Apache</p>
-            <p>IIS</p>
-            <p>FLASK</p>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Problem Solving</h6><hr/>
-            <p>Algorithms</p>
-            <p>Mathematics</p>
-            <p>Probability</p>
-            <p>Graph Theory</p>
-            <p>Data Structures</p>  
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-sm-6">
-          <div class="item"> 
-            <h6>Design and UI</h6><hr/>
-            <p>JAVASCRIPTs</p>
-            <p>PHP</p>
-            <p>NodeJS</p>
-            <p>Bootstrap</p>
-            <p>AngularJS</p>
-            <p>AJAX</p>
-            <p>jQuery</p>
-          </div>
-        </div>
-
+    
+<section class="u-clearfix u-section-2" id="sec-a2cb">
+  <div class="u-clearfix u-sheet u-sheet-1">
+    <div class="u-palette-2-base u-shape u-shape-rectangle u-shape-1"></div>
+    <div class="u-black u-shape u-shape-rectangle u-shape-2"></div>
+    <img class="u-image u-image-1" src="//images01.nicepage.com/c461c07a441a5d220e8feb1a/3c093c367c15599cbae29955/rrr-min.jpg" data-image-width="871" data-image-height="1080"/>
+    <div class="u-black u-container-style u-group u-group-1">
+      <div class="u-container-layout u-valign-top u-container-layout-1">
+        <h1 class="u-custom-font u-font-oswald u-text u-text-body-alt-color u-text-default u-text-1">Add Value to Life</h1>
+        <p class="u-text u-text-grey-15 u-text-2">We at Amsum envision a merit-driven talent ecosystem enabled by efficient job skills matching and reliable
+and intelligent assessments. Powered by machine learning, AI, psychometric and statistics, these state-of-theart assessment tools are used by companies across a wide variety of industries to help recruit the right people, develop requisite skills benchmarks, and to assess workforce health<br/>
+         <br/>
+        </p>
+        <a href="/Course" class="u-active-white u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-button-style u-hover-white u-none u-text-active-black u-text-body-alt-color u-text-hover-black u-btn-2">learn more</a>
       </div>
     </div>
   </div>
+</section>
 
- 
 
+
+</body>
+
+      <Homelearning />
+<Homeabout />
+<Homelayoutfour />
+<Homelayoutfive />
+<MV />
 
                 </> ) } }

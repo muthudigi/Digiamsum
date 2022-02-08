@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+*{
+    padding: 0;
+    margin: 0; 
+    font-family: 'Quicksand', sans-serif;
+   }
+body{
+    background: rgb(240, 234, 234);
+}
+.container{
+    position: relative;
+    width: 100%; 
+    display: flex;
+}
+.container .boxx{
+    position: relative;
+    height: 60vh; width: 20%;
+    transition: .7s;
+    transition-delay: .5s;
+    overflow: hidden;
+}
+.container:hover .boxx{
+    width: 10%;
+}
+.container .boxx:hover{
+   width: 60%;
+   transition-delay: 0s;  
+}
+.container .boxx:nth-child(1){
+    background: url(https://bruxellesnature.be/wp-content/uploads/2021/01/Nature-Bruxelloise.jpg);
+    background-size: cover;
+    background-position : center;
+} 
+.container .boxx:nth-child(2){
+    background: url(https://ds1.static.rtbf.be/article/image/1920xAuto/0/2/6/5158331da8919cb9d4c3a58f35c39fa6-1577806294.jpg);
+    background-size: cover;
+    background-position : center;
+} 
+.container .box:nth-child(3){
+    background: url(https://bruxellesnature.be/wp-content/uploads/2021/01/Nature-Bruxelloise.jpg);
+    background-size: cover;
+    background-position : center;
+} 
+.container .boxx:nth-child(4){
+    background: url(https://kpbs.media.clients.ellingtoncms.com/img/croppedphotos/2020/10/13/AgeOfNature_DSC01760_t800.JPG?90232451fbcadccc64a17de7521d859a8f88077d);
+    background-size: cover;
+    background-position : center;
+} 
+.container .boxx:nth-child(5){
+    background: url(https://loveincorporated.blob.core.windows.net/contentimages/gallery/03211459-0607-4d07-8a6c-9966e3820a7d-Mount-Kirkjufell-Iceland.jpg);
+    background-size: cover;
+    background-position : center;
+} 
+
+.container .boxx .content{
+    position: absolute;
+    left: 20px;  right: 20px;  bottom: 20px;
+    transform: translateY(120%);
+    transition: .7s;
+    transition-delay: 0s;
+    background: rgba(218, 213, 213, 0.6);  color: #fff;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+.container .boxx:hover .content{
+    transform: translateY(0);
+    transition-delay: .5s;
+}
+.container .boxx .content h1{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.container .boxx .content p{
+    font-size: 17px;
+}

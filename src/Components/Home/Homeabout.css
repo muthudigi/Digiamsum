@@ -1,0 +1,110 @@
+.conntainer{
+    background-color: #000000;
+    height: 720px;
+  }
+  .cirrclecontiner{
+      width: 100%;
+      height: 420px;
+    }
+
+
+    
+      .cirrcletitle1{
+        position: relative;
+        width: 377px;
+        font-size: 25px;
+        top: 30px;
+        left: 400px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        letter-spacing: 4px;
+      }
+
+      .cirrcletitle2{
+        position: relative;
+        width: 507px;
+        font-size: 35px;
+        top: 35px;
+        text-align: center;
+        left: 350px;
+        color: rgb(255, 255, 255);
+   font-weight: bold;
+   font-style: italic;
+   letter-spacing: 3px;
+      }
+
+
+    
+    .cirrcle2{
+      width: 400px;
+      height: 400px;
+      position: relative;
+      top: 60px;
+      left: 445px;
+  }
+    
+
+
+
+    .cirrcle3{
+      width: 731px;
+      height: 200px;
+      position: relative;
+      left: 280px;
+      top: 90px;
+    }
+    .cirrcletitle{
+      position: relative;
+      width: 377px;
+      font-size: 20px;
+      top: -340px;
+      left: 550px;
+      color: rgb(255, 255, 255);
+    }
+    .cirrcletagline{
+        position: relative;
+        width: 377px;
+        font-size: 22px;
+        top: -350px;
+        left: 550px;
+        color: rgb(255, 255, 255);
+        letter-spacing: 5px;
+    }
+
+
+
+    .cirrcletitlec1{
+        position: relative;
+        width: 377px;
+        font-size: 20px;
+        top: -800px;
+        left: -250px;
+        color: rgb(255, 255, 255);
+        text-align: right;
+      }
+      .cirrcletaglinec1{
+          position: relative;
+          width: 377px;
+          font-size: 22px;
+          top: -815px;
+          left: -250px;
+          color: rgb(255, 255, 255);
+          letter-spacing: 5px;
+          text-align: right;
+      }
+
+
+
+
+    .cirrcle2 img{
+      width: 350px;
+      height: 500px;
+      box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.349);
+      
+    }
+    .cirrcle3 h1{
+      height: 200px;
+      width: 200px;
+      padding:20px;
+      color: #000000;
+    }
