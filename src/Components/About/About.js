@@ -22,9 +22,9 @@ export class About extends Component {
 
 
 
-
-<div class="about-section">
-  <div class="inner-container">
+<div class="body">
+<div class="about-ssection">
+  <div class="iinner-ccoontainer">
     <h1>About Us</h1>
     <p class="text">
     Besides having academic or technical knowledge it is much important to have adequate skills. 
@@ -50,5 +50,6 @@ export class About extends Component {
       <span>Coding</span>
     </div>
   </div>
+</div>
 </div>
                 </> ) } }

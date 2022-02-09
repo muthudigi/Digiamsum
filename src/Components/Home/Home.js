@@ -4,11 +4,13 @@ import React, { Component } from 'react'
 import './home.css'
 
 
-import { Homeabout, Imgtop } from './Homeabout'
-import { MV } from './MV'
-import { Homelearning, Scroll } from './Homelearning'
+import { Homelayoutsix } from './Homelayoutsix'
+
 import { Homelayoutfour } from './Homelayoutfour'
 import { Homelayoutfive } from './Homelayoutfive'
+import { Homelayouttwo } from './Homelayouttwo'
+import { Homelayoutthree } from './Homelayoutthree'
+
 
 
 
@@ -45,10 +47,10 @@ and intelligent assessments. Powered by machine learning, AI, psychometric and s
 
 </body>
 
-      <Homelearning />
-<Homeabout />
+      <Homelayouttwo />
+<Homelayoutthree />
 <Homelayoutfour />
 <Homelayoutfive />
-<MV />
+<Homelayoutsix />
 
                 </> ) } }

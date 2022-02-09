@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import './Homeabout.css'
+import './Homelayoutthree.css'
 
 
 
@@ -10,7 +10,7 @@ import './Homeabout.css'
 
 
 
-export class Homeabout extends Component {
+export class Homelayoutthree extends Component {
 
     render() {
         return (

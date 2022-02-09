@@ -16,14 +16,16 @@
       top: 35px;
     }
     .ccircle1 .Helloo{
-      top: 50px;
+      top: 30px;
     }
-    .Helloo{
+    .Helloo {
       color: #fff;
       margin-left: 10%;
       letter-spacing: 0px;
-      width: 211px;
-      font-size: 20px;
+      width: 301px;
+      font-size: 30px;
+      max-width: 800px;
+    
     } 
     .Helloo-text{
       margin-left: 30%;
@@ -48,20 +50,42 @@
       position: relative;
       width: 377px;
       font-size: 25px;
+      top: -400px;
+      left: 550px;
+      color: rgb(255, 255, 255);
+    }
+
+
+    .ccircletagline{
+      position: relative;
+      width: 377px;
+      font-size: 25px;
+      top: -410px;
+      left: 550px;
+      color: rgb(255, 255, 255);
+    }
+
+
+    .ccicletitle1{
+      position: relative;
+      width: 377px;
+      font-size: 25px;
       top: -350px;
       left: 550px;
       color: rgb(255, 255, 255);
     }
-    .ccircletagline{
+
+
+    .ccircletagline1{
       position: relative;
-      font-size: 15px;
-      padding: 10px;
-      top: -330px;
-      border: none;
+      width: 377px;
+      font-size: 25px;
+      top: -360px;
       left: 550px;
-      font-weight: 700;
-      color: rgba(0, 0, 0, 0.75);
+      color: rgb(255, 255, 255);
     }
+
+    
     .ccircle2 img{
       width: 350px;
       height: 380px;

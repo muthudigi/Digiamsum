@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 
-import './Homelearning.css'
+import './Homelayouttwo.css'
 
 
-export class Homelearning extends Component {
+export class Homelayouttwo extends Component {
 
     render() {
         return (
@@ -24,7 +24,7 @@ export class Homelearning extends Component {
             <div class='ciircle3'>
                 <p class='ciicletitle'>Online Learning</p>
                 <p class="ciicletitle1">Start learning from <br/>the world’s best institutions</p>
-                <a href="/"><button class="ciircletagline">READ MORE </button></a>
+                <a href="/Course"><button class="ciircletagline">READ MORE </button></a>
                 
             </div>
         </div>

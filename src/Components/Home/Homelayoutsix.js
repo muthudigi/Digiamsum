@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import './MV.css'
+import './Homelayoutsix.css'
 
 
 
@@ -10,7 +10,7 @@ import './MV.css'
 
 
 
-export class MV extends Component {
+export class Homelayoutsix extends Component {
 
     render() {
         return (
@@ -20,8 +20,8 @@ export class MV extends Component {
             <div class='ccirclecontiner'>
                 <div class='ccircle1'>
                     <div class="Helloo">
-                    <h1>Hello!</h1>
-                    <p>BROWSE FREE ONLINE COURSES</p>
+                 
+                    <p>Upskill employees and build a culture of learning</p>
                     </div>
                 </div>
                 <div class='ccircle2'>
@@ -29,9 +29,14 @@ export class MV extends Component {
                 </div>
                
             </div>
-            <div class='ccircle3'>
-                <p class='ccicletitle'>Choose from hundreds of online courses from top universities and specialist organisations.</p>
-                <a href="/"><button class="ccircletagline">READ MORE </button></a>
+            <div class='ccircle3'> 
+            <p class="ccircletagline">OUR MISSION</p>
+                <p class='ccicletitle'>“Empowering Engineers and Engineering for futuristic World”</p>
+
+
+                <p class="ccircletagline1">OUR VISION</p>
+                <p class='ccicletitle1'>“Excellence in Technological Advancement”</p>
+               
                 
             </div>
         </div>
